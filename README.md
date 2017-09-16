@@ -1,4 +1,4 @@
-# Cad in Assembly x86 (NASM) real mode - bootloader project #
+# Cad with real mode Assembly x86 - bootloader project #
 
 Developers: <br><br>
 
