@@ -1,4 +1,4 @@
-# Cad with real mode Assembly x86 - bootloader project #
+# Cad on real mode Assembly x86 - bootloader project #
 
 Developers: <br><br>
 
