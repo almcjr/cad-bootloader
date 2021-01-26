@@ -1,4 +1,4 @@
-# Cad on real mode Assembly x86 - bootloader project #
+# Simple Computer Aided Design (CAD) System and Bootloader on Real Mode Assembly x86 #
 
 Developers: <br><br>
 
